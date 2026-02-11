@@ -1,4 +1,4 @@
-import { PolyMod, MixinType } from "https://pml.crjakob.com/cb/PolyTrackMods/PolyModLoader/0.5.2/PolyModLoader.js";
+import { PolyMod, MixinType } from "https://cdn.polymodloader.com/cb/polytrackmods/PolyModLoader/0.5.2/PolyModLoader.js";
 
 class YourMod extends PolyMod {
     init = (pml) => {
